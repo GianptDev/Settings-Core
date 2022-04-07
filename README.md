@@ -1,2 +1,14 @@
 # Settings-Core
-Small tool to make simple settings for a godot project, include file saving/loading with objects.
+
+![image](https://raw.githubusercontent.com/GianptDev/Settings-Core/main/addons/SettingsCore/icon.png)
+
+***Setting core*** is a small tool that define a basic system to store settings in the Godot engine projects using a singletone, objects, signals and resources.
+
+Each setting can have an unique name and is instanced as an object with signals to alert any changed.
+
+For more info you can see the wiki.
+
+## Installation
+
+Simply download the project from the asset library or from this repository and import everything in the addons folder in you desired project.
+***Make sure*** to define a new singletone whit the `SettingsServer.tscn` scene.
