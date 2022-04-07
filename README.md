@@ -4,9 +4,9 @@
 
 ***Setting core*** is a small tool that define a basic system to store settings in the Godot engine projects using a singletone and objects.
 
-Each setting can have an unique name and is instanced as an object with signals to alert any changed.
+Each setting can have an unique name and is instanced as an object with signals to alert any change.
 
-For more info you can see the wiki.
+- For more info you can see the wiki.
 
 ## Installation
 
