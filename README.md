@@ -2,9 +2,9 @@
 
 ![image](https://raw.githubusercontent.com/GianptDev/Settings-Core/main/addons/SettingsCore/icon.png)
 
-***Setting core*** is a small tool that define a basic system to store settings in the Godot engine projects using a singletone and objects.
+***SettingsCore*** is a small tool that define a basic system to store settings in the Godot engine projects using a singletone and objects.
 
-Each setting can have an unique name and is instanced as an object with signals to alert any change.
+Each setting can have an unique name and is instanced as an object with signals to alert any changes.
 
 - For more info you can see the wiki.
 
