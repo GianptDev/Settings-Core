@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://addons/SettingsCore/tools/SettingsResource.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+settings = {
+"color": Color( 0.769531, 0.117957, 0.117957, 1 ),
+"test": 12
+}
